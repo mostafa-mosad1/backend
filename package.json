@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mostafa-mosad1/backend#readme",
   "dependencies": {
-    "@supabase/supabase-js": "^2.57.4"
+    "@supabase/supabase-js": "^2.57.4",
+    "dotenv": "^17.2.2"
   }
 }
